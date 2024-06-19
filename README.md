@@ -25,3 +25,10 @@ Technologies Used
 2) CSS: For styling the webpage, including button and text styles.
 
 3) JavaScript: For adding interactivity, including event listeners for button clicks and key presses, and for playing audio files.
+
+
+
+
+
+
+
